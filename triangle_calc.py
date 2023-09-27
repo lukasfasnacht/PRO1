@@ -1,6 +1,6 @@
 # Defines function
-def triangle(seitenlaenge):
-  result = seitenlaenge * 3
+def triangle(side):
+  result = side * 3
   return result
 
 # Take user inputs and stores it in variable
