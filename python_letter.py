@@ -6,7 +6,7 @@ screen.title('P-Y-T-H-O-N')
 turtle.speed(0)
 turtle.hideturtle()
 turtle.pensize(0)
-turtle.pencolor("white")
+turtle.pencolor("black")
 
 def Gruppe_P(color):
   turtle.fillcolor(color)
@@ -254,11 +254,11 @@ def Gruppe_N(color):
   turtle.pendown()
 
 turtle.goto(-900,0)
-Gruppe_P("green")
-Gruppe_Y("yellow")
-Gruppe_T("red")
-Gruppe_H("blue")
-Gruppe_O("pink")
-Gruppe_N("orange")
+Gruppe_P("black")
+Gruppe_Y("black")
+Gruppe_T("black")
+Gruppe_H("black")
+Gruppe_O("black")
+Gruppe_N("black")
 
 turtle.done()
