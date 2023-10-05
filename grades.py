@@ -16,7 +16,7 @@ for i in range(1, number):
             else:
                 print("Ungültige Eingabe. Der Wert muss kleiner oder gleich 6 sein.")
         except ValueError:
-            print("Ungültige Eingabe. Bitte geben Sie eine ganze Zahl ein.")
+            print("Ungültige Eingabe. Bitte geben Sie eine Zahl ein.")
 
 # Rechnet den Notendurchschnitt aus
 average = sum(grades) / number_grades
