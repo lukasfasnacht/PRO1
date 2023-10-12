@@ -1,5 +1,3 @@
-import json
-
 personas = {
     "Vorname": ["Men"],
     "Nachname": ["Zimmermann"],
